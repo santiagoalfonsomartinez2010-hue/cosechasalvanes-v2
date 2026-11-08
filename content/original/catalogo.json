@@ -1,0 +1,849 @@
+{
+  "fuente": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes",
+  "fecha_extraccion": "2026-11-07",
+  "total_productos": 23,
+  "nota": "unidad = PENDIENTE en todos: la web original no indica unidad de venta. Las categorías son las de Wix.",
+  "categorias": [
+    {
+      "slug": "frutas",
+      "nombre": "Frutas",
+      "orden": 1,
+      "descripcion_seo": null,
+      "imagen": null,
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/category/frutas"
+    },
+    {
+      "slug": "huerta-de-invierno",
+      "nombre": "Huerta de Invierno",
+      "orden": 2,
+      "descripcion_seo": null,
+      "imagen": null,
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/category/huerta-de-invierno"
+    },
+    {
+      "slug": "huerta-de-verano",
+      "nombre": "Huerta de Verano",
+      "orden": 3,
+      "descripcion_seo": "Estos productos están disponibles durante la época de verano.",
+      "imagen": "/images/categoria-huerta-de-verano.jpg",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/category/huerta-de-verano"
+    },
+    {
+      "slug": "legumbres",
+      "nombre": "Legumbres",
+      "orden": 4,
+      "descripcion_seo": "Todas nuestras legumbres están disponibles durante toda la temporada.",
+      "imagen": "/images/categoria-legumbres.jpg",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/category/legumbres"
+    },
+    {
+      "slug": "otros-productos",
+      "nombre": "Otros productos",
+      "orden": 5,
+      "descripcion_seo": null,
+      "imagen": null,
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/category/otros-productos"
+    }
+  ],
+  "productos_sin_categoria": [
+    "patata",
+    "ajo",
+    "cebolla"
+  ],
+  "productos": [
+    {
+      "nombre": "Melón Piel de Sapo",
+      "slug": "melon-piel-de-sapo",
+      "slug_original": "melón-piel-de-sapo",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/melón-piel-de-sapo",
+      "orden": 1,
+      "precio": 4,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "frutas"
+      ],
+      "cinta": null,
+      "descripcion": "Dulce, aromático y naturalmente refrescante, nuestro melón es una expresión auténtica del sabor de la temporada. Cultivado con paciencia y recolectado únicamente cuando alcanza su punto óptimo de maduración, cada pieza ofrece una pulpa jugosa, firme y llena de matices que evocan la frescura del campo en su mejor momento.\n\nSu equilibrio natural entre dulzor, aroma y textura lo convierte en una fruta imprescindible tanto para disfrutar sola como para integrarse en propuestas gastronómicas más sofisticadas. Perfecto en desayunos, ensaladas, aperitivos, postres, zumos o maridado con productos salados, aporta frescura, elegancia y un sabor limpio que destaca por su autenticidad.\n\nAdemás de su atractivo gastronómico, es una fruta ligera y naturalmente rica en agua, vitaminas y minerales, ideal para una alimentación equilibrada y para los meses más cálidos.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [],
+      "pendientes": [
+        "unidad",
+        "imagen"
+      ]
+    },
+    {
+      "nombre": "Berenjena",
+      "slug": "berenjena",
+      "slug_original": "berenjena",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/berenjena",
+      "orden": 2,
+      "precio": 4,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "huerta-de-verano"
+      ],
+      "cinta": null,
+      "descripcion": "De piel brillante, carne firme y textura delicadamente carnosa, nuestra berenjena es una hortaliza que destaca por su elegancia natural y su extraordinaria versatilidad en cocina. Cultivada con esmero y recolectada en su punto exacto de maduración, cada pieza conserva todo el equilibrio entre frescura, suavidad y profundidad de sabor que caracteriza al producto de origen cuidadosamente seleccionado.\n\nSu perfil suave, con sutiles notas vegetales y una textura que absorbe y realza los aromas de cada elaboración, la convierte en un ingrediente imprescindible tanto en recetas tradicionales mediterráneas como en propuestas culinarias más creativas. Asada, a la brasa, rellena, confitada, en cremas, mousakas, tempuras o acompañando carnes, pescados y verduras, ofrece infinitas posibilidades gastronómicas.\n\nAdemás de su atractivo culinario, es una opción ligera y nutritiva, naturalmente rica en fibra, antioxidantes y compuestos vegetales que aportan equilibrio y bienestar a una alimentación consciente.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [],
+      "pendientes": [
+        "unidad",
+        "imagen"
+      ]
+    },
+    {
+      "nombre": "Calabaza Cacahuete",
+      "slug": "calabaza-cacahuete",
+      "slug_original": "calabaza-cacahuete",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/calabaza-cacahuete",
+      "orden": 3,
+      "precio": 5,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "otros-productos"
+      ],
+      "cinta": null,
+      "descripcion": "De silueta elegante y pulpa intensamente anaranjada, la calabaza cacahuete destaca por su textura sedosa, su dulzor natural y la riqueza de matices que aporta a cualquier elaboración. Cultivada siguiendo los ritmos propios de la temporada y seleccionada cuidadosamente en su punto óptimo de maduración, ofrece una calidad excepcional desde el campo hasta la mesa.\n\nSu carne firme y cremosa, con delicadas notas dulces y avellanadas, la convierte en un ingrediente muy apreciado tanto en cocina tradicional como en propuestas gastronómicas más actuales. Perfecta para cremas aterciopeladas, asados al horno, purés, risottos, rellenos, guarniciones o incluso elaboraciones de repostería donde su sabor aporta profundidad y equilibrio.\n\nAdemás de su valor culinario, es una hortaliza naturalmente rica en fibra, vitaminas y antioxidantes, ideal para quienes buscan sabor, calidad y bienestar en un mismo producto.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/calabaza-cacahuete-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_3b1c40411cc1493395c109f69821edab~mv2.jpg",
+          "ancho": 828,
+          "alto": 809
+        }
+      ],
+      "pendientes": [
+        "unidad"
+      ]
+    },
+    {
+      "nombre": "Repollo",
+      "slug": "repollo",
+      "slug_original": "repollo",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/repollo",
+      "orden": 4,
+      "precio": 3,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "huerta-de-invierno"
+      ],
+      "cinta": null,
+      "descripcion": "Crujiente, jugoso y sorprendentemente versátil, nuestro repollo procede de cultivos seleccionados donde cada pieza desarrolla su sabor de forma natural, respetando los tiempos de la tierra y el equilibrio del entorno. Sus hojas compactas, frescas y de color intenso reflejan una cosecha cuidada al detalle y una calidad pensada para quienes valoran el producto auténtico.\n\nEn cocina ofrece infinitas posibilidades: desde recetas tradicionales de cuchara y guisos reconfortantes, hasta ensaladas frescas, fermentados, salteados o elaboraciones creativas con un enfoque contemporáneo. Su textura firme y su sabor suave con matices ligeramente dulces permiten integrarlo fácilmente en cualquier propuesta gastronómica.\n\nAdemás de su valor culinario, es una hortaliza especialmente apreciada por su aporte natural de fibra, vitaminas y compuestos antioxidantes, convirtiéndose en una opción equilibrada para una alimentación consciente.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/repollo-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_c3a387f1fd7e476a8b70c42efc886d35~mv2.jpg",
+          "ancho": 828,
+          "alto": 778
+        }
+      ],
+      "pendientes": [
+        "unidad"
+      ]
+    },
+    {
+      "nombre": "Espárragos Trigueros",
+      "slug": "esparragos-trigueros",
+      "slug_original": "espárragostrigueros",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/espárragostrigueros",
+      "orden": 5,
+      "precio": 7,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "otros-productos"
+      ],
+      "cinta": null,
+      "descripcion": "Nuestros espárragos trigueros son seleccionados cuidadosamente en su momento óptimo de recolección para ofrecer una experiencia gastronómica auténtica, fresca y llena de matices. Cultivados con respeto por la tierra y los ritmos naturales, cada tallo conserva la esencia del campo: textura tierna, sabor intenso y un delicado equilibrio entre notas vegetales y un ligero toque silvestre.\n\nSu extraordinaria versatilidad en cocina los convierte en un ingrediente imprescindible tanto para recetas tradicionales como para elaboraciones de alta cocina: a la brasa, salteados con aceite de oliva, en cremas suaves, risottos, tortillas o como acompañamiento de carnes y pescados.\n\nMás que una verdura de temporada, es un producto que representa origen, cuidado y excelencia.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/esparragos-trigueros-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_06b4e70e354d46e8b94e68eaf8a3e5c6~mv2.jpg",
+          "ancho": 828,
+          "alto": 966
+        },
+        {
+          "archivo": "/images/esparragos-trigueros-2.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_55a86ea70c1b4251a80a582d8a145e42~mv2.jpg",
+          "ancho": 639,
+          "alto": 1453
+        }
+      ],
+      "pendientes": [
+        "unidad"
+      ]
+    },
+    {
+      "nombre": "Miel de Flores Natural",
+      "slug": "miel-de-flores-natural",
+      "slug_original": "miel-de-flores-natural",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/miel-de-flores-natural",
+      "orden": 6,
+      "precio": 13,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "otros-productos"
+      ],
+      "cinta": null,
+      "descripcion": "Un néctar excepcional elaborado por abejas en entornos seleccionados, donde la diversidad floral aporta matices únicos. Su perfil aromático sofisticado y su pureza la convierten en un producto gourmet ideal para los paladares más exigentes.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/miel-de-flores-natural-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_bd48f756aa5748288d31f9690220b801~mv2.jpg",
+          "ancho": 827,
+          "alto": 827
+        },
+        {
+          "archivo": "/images/miel-de-flores-natural-2.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_a047cc69d1234487923fb887ba80da4e~mv2.jpg",
+          "ancho": 828,
+          "alto": 828
+        }
+      ],
+      "pendientes": [
+        "unidad"
+      ]
+    },
+    {
+      "nombre": "Patata",
+      "slug": "patata",
+      "slug_original": "patata",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/patata",
+      "orden": 7,
+      "precio": 4,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [],
+      "cinta": null,
+      "descripcion": "Nuestras patatas se cultivan en tierras seleccionadas y se recolectan en su punto óptimo de maduración para garantizar su frescura y calidad. Con una textura equilibrada y un sabor auténtico, son un producto esencial en la cocina diaria, fruto de una agricultura cuidada y natural.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/patata-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_bc62be97e2d148d0a5c7c21148195b2f~mv2.jpg",
+          "ancho": 806,
+          "alto": 806
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "categoria"
+      ]
+    },
+    {
+      "nombre": "Ajo",
+      "slug": "ajo",
+      "slug_original": "ajo",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/ajo",
+      "orden": 8,
+      "precio": 7,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/ajo-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_140ef0aa79e546598b6ddfb53a057922~mv2.jpg",
+          "ancho": 1200,
+          "alto": 1200
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion",
+        "categoria"
+      ]
+    },
+    {
+      "nombre": "Brócoli",
+      "slug": "brocoli",
+      "slug_original": "brócoli",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/brócoli",
+      "orden": 9,
+      "precio": 3,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "huerta-de-invierno"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/brocoli-1.png",
+          "url_original": "https://static.wixstatic.com/media/914501_0edb78f54bf0471a82a3dd77f1b041b1~mv2.png",
+          "ancho": 490,
+          "alto": 560
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Coliflor",
+      "slug": "coliflor",
+      "slug_original": "coliflor",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/coliflor",
+      "orden": 10,
+      "precio": 3,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "huerta-de-invierno"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/coliflor-1.png",
+          "url_original": "https://static.wixstatic.com/media/914501_e768fd9c728046c2bacc7666622cb40a~mv2.png",
+          "ancho": 1166,
+          "alto": 1162
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Judión Extra",
+      "slug": "judion-extra",
+      "slug_original": "judión-extra",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/judión-extra",
+      "orden": 11,
+      "precio": 7,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "legumbres"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/judion-extra-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_5f75690737cb4e6fb88369db63f82f5d~mv2.jpg",
+          "ancho": 828,
+          "alto": 792
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Alubia Pinta",
+      "slug": "alubia-pinta",
+      "slug_original": "alubia-pinta",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/alubia-pinta",
+      "orden": 12,
+      "precio": 3.5,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "legumbres"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/alubia-pinta-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_9b4268ab1ceb413fb12e6da5c079313b~mv2.jpg",
+          "ancho": 1547,
+          "alto": 1547
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Alubia Blanca",
+      "slug": "alubia-blanca",
+      "slug_original": "alubia-blanca",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/alubia-blanca",
+      "orden": 13,
+      "precio": 3.5,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "legumbres"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/alubia-blanca-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_9a2499728a6045078774d68177035be2~mv2.jpg",
+          "ancho": 2464,
+          "alto": 2881
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Lenteja Castellana",
+      "slug": "lenteja-castellana",
+      "slug_original": "lenteja-castellana",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/lenteja-castellana",
+      "orden": 14,
+      "precio": 3,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "legumbres"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/lenteja-castellana-1.png",
+          "url_original": "https://static.wixstatic.com/media/914501_58277d332dee430c899a6db61cd993e9~mv2.png",
+          "ancho": 1877,
+          "alto": 2289
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Lenteja Pardina",
+      "slug": "lenteja-pardina",
+      "slug_original": "lenteja-pardina",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/lenteja-pardina",
+      "orden": 15,
+      "precio": 2.8,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "legumbres"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/lenteja-pardina-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_893ab6abba1846a485f6edb300babaf6~mv2.jpg",
+          "ancho": 966,
+          "alto": 1085
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Huevos Camperos",
+      "slug": "huevos-camperos",
+      "slug_original": "copia-de-garbanzos",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/copia-de-garbanzos",
+      "orden": 16,
+      "precio": 3.5,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "otros-productos"
+      ],
+      "cinta": null,
+      "descripcion": "Huevos de gallinas criadas en libertad.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [
+        "INFORMACIÓN DE PRODUCTO",
+        "POLÍTICA DE DEVOLUCIÓN Y REEMBOLSO",
+        "INFORMACIÓN DEL ENVÍO"
+      ],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/huevos-camperos-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_ef4bd2fd3b4a457894bd25a06a444d5b~mv2.jpg",
+          "ancho": 828,
+          "alto": 826
+        }
+      ],
+      "pendientes": [
+        "unidad"
+      ]
+    },
+    {
+      "nombre": "Tomate de Ensalada",
+      "slug": "tomate-de-ensalada",
+      "slug_original": "tomate",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/tomate",
+      "orden": 17,
+      "precio": 2.7,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": false,
+      "estado": "Agotado",
+      "categorias": [
+        "huerta-de-verano"
+      ],
+      "cinta": null,
+      "descripcion": "Fresco, jugoso y lleno de carácter, nuestro tomate de ensalada se cultiva respetando los ciclos naturales para ofrecer un producto con sabor auténtico, textura equilibrada y una frescura que se aprecia en cada corte. Seleccionado cuidadosamente en su punto óptimo de maduración, conserva toda la intensidad aromática y la calidad que distingue a un tomate de origen excepcional.\n\nSu carne firme, su alto contenido en jugo y el perfecto equilibrio entre dulzor y acidez lo convierten en el protagonista ideal de preparaciones sencillas donde el producto habla por sí mismo. En ensaladas, tostadas, carpaccios, acompañamientos o recetas mediterráneas, aporta color, frescura y un sabor limpio que realza cualquier combinación.\n\nMás allá de su valor gastronómico, es una hortaliza naturalmente rica en vitaminas, minerales y antioxidantes, perfecta para una cocina saludable, honesta y llena de matices.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [
+        "INFORMACIÓN DE PRODUCTO",
+        "POLÍTICA DE DEVOLUCIÓN Y REEMBOLSO",
+        "INFORMACIÓN DEL ENVÍO"
+      ],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/tomate-de-ensalada-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_00994dc3b35d4b4f870caea14578d8d8~mv2.jpg",
+          "ancho": 804,
+          "alto": 804
+        }
+      ],
+      "pendientes": [
+        "unidad"
+      ]
+    },
+    {
+      "nombre": "Pimiento Italiano Verde",
+      "slug": "pimiento-italiano-verde",
+      "slug_original": "pimiento",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/pimiento",
+      "orden": 18,
+      "precio": 2.3,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": false,
+      "estado": "Agotado",
+      "categorias": [
+        "huerta-de-verano"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "plantilla_wix",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [
+        "INFORMACIÓN DE PRODUCTO",
+        "POLÍTICA DE DEVOLUCIÓN Y REEMBOLSO",
+        "INFORMACIÓN DEL ENVÍO"
+      ],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/pimiento-italiano-verde-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_ccf950b13bd3428595802e017fb564aa~mv2.jpg",
+          "ancho": 1339,
+          "alto": 1339
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Cebolla",
+      "slug": "cebolla",
+      "slug_original": "cebolla",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/cebolla",
+      "orden": 19,
+      "precio": 1.9,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": false,
+      "estado": "Agotado",
+      "categorias": [],
+      "cinta": "Más vendido",
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "plantilla_wix",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [
+        "INFORMACIÓN DE PRODUCTO",
+        "POLÍTICA DE DEVOLUCIÓN Y REEMBOLSO",
+        "INFORMACIÓN DEL ENVÍO"
+      ],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/cebolla-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_9a92ec941a5848099add04883ee222d6~mv2.jpg",
+          "ancho": 1278,
+          "alto": 1278
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion",
+        "categoria"
+      ]
+    },
+    {
+      "nombre": "Pimiento Gordo Rojo",
+      "slug": "pimiento-gordo-rojo",
+      "slug_original": "pimiento-rojo",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/pimiento-rojo",
+      "orden": 20,
+      "precio": 2.3,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": false,
+      "estado": "Agotado",
+      "categorias": [
+        "huerta-de-verano"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "plantilla_wix",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [
+        "INFORMACIÓN DE PRODUCTO",
+        "POLÍTICA DE DEVOLUCIÓN Y REEMBOLSO",
+        "INFORMACIÓN DEL ENVÍO"
+      ],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/pimiento-gordo-rojo-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_951dfb254a3049fe8ec55c76a53862cb~mv2.jpg",
+          "ancho": 1868,
+          "alto": 1889
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Pimiento Gordo Verde",
+      "slug": "pimiento-gordo-verde",
+      "slug_original": "pimiento-gordo-verde",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/pimiento-gordo-verde",
+      "orden": 21,
+      "precio": 2.3,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": false,
+      "estado": "Agotado",
+      "categorias": [
+        "huerta-de-verano"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "vacia",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [
+        "INFORMACIÓN DE PRODUCTO",
+        "POLÍTICA DE DEVOLUCIÓN Y REEMBOLSO",
+        "INFORMACIÓN DEL ENVÍO"
+      ],
+      "opciones": [
+        {
+          "nombre": "Tamaño",
+          "valores": [
+            "Pequeño",
+            "Grande"
+          ]
+        }
+      ],
+      "imagenes": [
+        {
+          "archivo": "/images/pimiento-gordo-verde-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_1a0351998b684e6f9b84dccb51772289~mv2.jpg",
+          "ancho": 900,
+          "alto": 900
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion",
+        "opciones"
+      ]
+    },
+    {
+      "nombre": "Calabacín",
+      "slug": "calabacin",
+      "slug_original": "calabacín",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/calabacín",
+      "orden": 22,
+      "precio": 1.9,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": false,
+      "estado": "Agotado",
+      "categorias": [
+        "huerta-de-verano"
+      ],
+      "cinta": null,
+      "descripcion": "PENDIENTE",
+      "descripcion_estado": "plantilla_wix",
+      "informacion_adicional": [],
+      "informacion_adicional_plantilla_descartada": [
+        "INFORMACIÓN DE PRODUCTO",
+        "POLÍTICA DE DEVOLUCIÓN Y REEMBOLSO",
+        "INFORMACIÓN DEL ENVÍO"
+      ],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/calabacin-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_1b5f760325c343e8848c1469dd47bca3~mv2.jpg",
+          "ancho": 1681,
+          "alto": 1681
+        }
+      ],
+      "pendientes": [
+        "unidad",
+        "descripcion"
+      ]
+    },
+    {
+      "nombre": "Garbanzos",
+      "slug": "garbanzos",
+      "slug_original": "garbanzos",
+      "url_original": "https://mgomezsantanacontr.wixsite.com/cosechadesalvanes/product-page/garbanzos",
+      "orden": 23,
+      "precio": 3.5,
+      "moneda": "EUR",
+      "unidad": "PENDIENTE",
+      "disponible": true,
+      "estado": "Disponible",
+      "categorias": [
+        "legumbres"
+      ],
+      "cinta": null,
+      "descripcion": "Garbanzo Pedrosillano de producción castiza.\n\nUn garbanzo de origen local, seleccionado cuidadosamente para ofrecer un producto gourmet, versátil y perfecto tanto para el cocido tradicional como para la cocina más actual.",
+      "descripcion_estado": "original",
+      "informacion_adicional": [
+        {
+          "titulo": "INFORMACIÓN DE PRODUCTO",
+          "texto": "Cultivados en el corazón de la Comunidad de Madrid, nuestros garbanzos pertenecen a la reconocida variedad Pedrosillana, apreciada por su pequeño tamaño, piel fina y una textura suave y mantecosa tras la cocción.\n\nProducidos en campos madrileños con tradición agrícola, donde el clima continental y los suelos de secano aportan carácter y calidad, cada cosecha desarrolla un sabor intenso y auténtico que distingue a esta legumbre."
+        }
+      ],
+      "informacion_adicional_plantilla_descartada": [],
+      "opciones": [],
+      "imagenes": [
+        {
+          "archivo": "/images/garbanzos-1.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_f8ac9b9140b148af91be6952b373b67a~mv2.jpg",
+          "ancho": 2919,
+          "alto": 3000
+        },
+        {
+          "archivo": "/images/garbanzos-2.jpg",
+          "url_original": "https://static.wixstatic.com/media/914501_6ced8a32ca5441a9a300d2faabbd6647~mv2.jpg",
+          "ancho": 688,
+          "alto": 731
+        }
+      ],
+      "pendientes": [
+        "unidad"
+      ]
+    }
+  ]
+}
